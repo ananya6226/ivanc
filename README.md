@@ -1,6 +1,6 @@
-# ivanc
+# ivan
 
-This repository contains two applications: 
+This repo contains two applications: 
 
 1. A [React app](/web-client) that displays information about the author and his/her work as a software developer.
 See deployed at http://ivanc.uk
@@ -12,7 +12,7 @@ See deployed at https://api.ivanc.uk
 Source code located under `/web-client`. This React app is set up with [Webpack](https://webpack.github.io/) and
 [Express](http://expressjs.com/) so that the React components are rendered in the server side. 
 
-#### Getting started
+#### Get started
 1. `npm install`: install app dependencies.
 3. Make sure the companion API app is running at`http://localhost:8000/`  
 4. `npm start`: start the dev server at `http://localhost:3000/`
